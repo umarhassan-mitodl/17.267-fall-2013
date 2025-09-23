@@ -1,0 +1,43 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ]
+  ],
+  "legacy_uid": "46af476f-dd36-1105-112b-0ba42d35dcf0",
+  "instructors": {
+    "content": [
+      "3c3e807e-6636-0844-a1f4-61b7fafbf7d0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5c1c6b9f-d79d-b548-4570-07ba9e4b2dd6",
+    "website": "17-267-democracy-in-america-fall-2013"
+  },
+  "course_title": "Democracy in America",
+  "course_description": "This course examines the functioning of democracy in the U.S. beginning with the theoretical foundations of democratic representation. It explores how the views of the public influence policy making. It also examines factors, such as malapportionment, that lead to non-majoritarian outcomes. Evidence on how well policy outcomes reflect public opinion is reviewed, and whether certain groups are over or under-represented in the policy process. Also discussed are reforms that might make our democracy more responsive to the American public.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.267",
+  "course_image_thumbnail": {
+    "content": "48d78a1f-706d-cc9d-5126-c44ae0f94d29",
+    "website": "17-267-democracy-in-america-fall-2013"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "8618efa9-66f1-444b-ade2-231b3d085873",
+  "site_short_id": "17.267-fall-2013",
+  "site_url_path": "courses/17-267-democracy-in-america-fall-2013",
+  "title": "Course Metadata"
+}
