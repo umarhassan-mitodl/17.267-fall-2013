@@ -5,6 +5,8 @@ description: 'This resources contains information regarding democracy in america
 file: /courses/17-267-democracy-in-america-fall-2013/d4e82660fadd449bbc40a4130c66db4d_MIT17_267F13Stu1Essay1.pdf
 file_size: 574243
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

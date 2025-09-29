@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides a course overview and information on meeting
   times, prerequisites, required textbooks, requirements, and a statement on academic
   integrity.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -31,7 +33,7 @@ Erikson, Robert S., and Kent L. Tedin. _American Public Opinion: Its Origins, Co
 
 Ansolabehere, Stephen, and James M. Snyder, Jr. _The End of Inequality: One Person, One Vote and the Transformation of American Politics_. W. W. Norton & Company, 2008. ISBN: 9780393931037.
 
-Gilens, Martin. _Affluence & Influence: Economic Inequality and Political Power in America_. Princeton University Press, 2012. ISBN: 9780691153971. \[Preview with {{% resource_link "dd90731d-46e5-4e1f-8312-c9fe8b3038b9" "Google Books" %}}\]
+Gilens, Martin. _Affluence & Influence: Economic Inequality and Political Power in America_. Princeton University Press, 2012. ISBN: 9780691153971. \[Preview with [Google Books](http://books.google.com/books?id=_hxXpVlF8XYC&pg=PAfrontcover)\]
 
 Additional readings come from a variety of sources and are detailed in the {{% resource_link babbbf79-ae85-6002-0bc1-197bbd4aa5e6 "Readings" %}} section.
 
@@ -104,4 +106,4 @@ For further details, please see the {{% resource_link 17579d34-ab41-acba-ebdf-67
 Academic Integrity
 ------------------
 
-Students are encouraged to talk to one another outside of class about issues discussed in class and to brainstorm about essays. You often learn best from your peers. However, each student is expected to write his or her own essays and exam notes individually. For more on academic integrity, please see the {{% resource_link "9cfee4cf-bfac-4fb0-b580-b0a507adc8b2" "Academic Integrity at MIT" %}} website.
+Students are encouraged to talk to one another outside of class about issues discussed in class and to brainstorm about essays. You often learn best from your peers. However, each student is expected to write his or her own essays and exam notes individually. For more on academic integrity, please see the [Academic Integrity at MIT](http://integrity.mit.edu/) website.
